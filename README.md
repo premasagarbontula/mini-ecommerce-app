@@ -204,13 +204,13 @@ client/
 Placeholders — replace with real screenshots in /docs or repo root.
 
 - Home / Product listing
-  ![Home Placeholder](./src/assets/product-listing.png)
+  ![Home Placeholder](./src/assets/products.png)
 - Product details
-  ![Product Placeholder](./screenshots/product.png)
+  ![Product Placeholder](./src/assets/product.png)
 - Cart
-  ![Cart Placeholder](./screenshots/cart.png)
+  ![Cart Placeholder](./src/assets/cart.png)
 - Admin dashboard (product management)
-  ![Admin Placeholder](./screenshots/admin.png)
+  ![Admin Placeholder](./src/assets/admin.png)
 
 ---
 
