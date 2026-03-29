@@ -204,7 +204,7 @@ client/
 Placeholders — replace with real screenshots in /docs or repo root.
 
 - Home / Product listing
-  ![Home Placeholder](./src/assets/products.png)
+  ![Home Placeholder]([./src/assets/products.png](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/admin.png))
 - Product details
   ![Product Placeholder](./src/assets/product.png)
 - Cart
