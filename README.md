@@ -204,7 +204,7 @@ client/
 Placeholders — replace with real screenshots in /docs or repo root.
 
 - Home / Product listing
-  ![Home Placeholder](./src/assets/product-listing.png.png)
+  ![Home Placeholder](./src/assets/product-listing.png)
 - Product details
   ![Product Placeholder](./screenshots/product.png)
 - Cart
