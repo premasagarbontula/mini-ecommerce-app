@@ -204,13 +204,13 @@ client/
 Placeholders — replace with real screenshots in /docs or repo root.
 
 - Home / Product listing
-  ![Home Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/admin.png)
+  ![Home Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/products.png)
 - Product details
-  ![Product Placeholder](./src/assets/product.png)
+  ![Product Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/product.png)
 - Cart
-  ![Cart Placeholder](./src/assets/cart.png)
+  ![Cart Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/cart.png)
 - Admin dashboard (product management)
-  ![Admin Placeholder](./src/assets/admin.png)
+  ![Admin Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/admin.png)
 
 ---
 
