@@ -201,8 +201,6 @@ client/
 
 ## Screenshots
 
-Placeholders — replace with real screenshots in /docs or repo root.
-
 - Home / Product listing
   ![Home Placeholder](https://github.com/premasagarbontula/mini-ecommerce-app/blob/main/client/src/assets/products.png)
 - Product details
